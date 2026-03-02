@@ -40,7 +40,7 @@ Tablets
 
 Desktop
 
-🌐 Deploy
+🌐 Deploy [https://alice-773.github.io/DraLarissa-site/]
 
 Projeto publicado via GitHub Pages.
 
